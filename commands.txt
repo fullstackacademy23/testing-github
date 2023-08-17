@@ -1,0 +1,16 @@
+  990  clear
+  991  cd Desktop
+  992  mkdir bash-file-demo && cd $_
+  993  code .
+  994  code .
+  995  cd ..
+  996  cd bash-file-demo
+  997  git clone git@github.com:fullstackacademy23/testing-github.git
+  998  ls
+  999  cd testing-github
+ 1000  ls
+ 1001  git status
+ 1002  cd testing-github
+ 1003  git status
+ 1004  history
+ 1005  clear
